@@ -1,2 +1,2 @@
-# Python_course
-Course
+# python_practice_rep
+practice
